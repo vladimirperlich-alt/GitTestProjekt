@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Verzija 1.0 - Početak");
+            Console.WriteLine("Verzija 1.1 - Dodana prva izmjena");
         }
     }
 }
